@@ -37,7 +37,7 @@ cc('hi, shorthand for console.log')
 - `cc(message)`
   - about:
     - light weight, shorter version of `console.log(message)`.
-    - stands for **c**losed **c**aptioning in subtitle (act like subtitle on movie 😊).
+    - stands for **c**losed **c**aptioning in subtitle (acts like subtitle in movie 😊).
     - `cc('example)` is the same as `console.log(example)`.
   - param:
     - `message` [optional]
