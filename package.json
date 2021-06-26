@@ -1,0 +1,23 @@
+{
+  "name": "jyglobal",
+  "version": "1.0.0",
+  "description": "global functions for faster development and testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyydev/npm-jyglobal.git"
+  },
+  "keywords": [
+    "jy",
+    "global"
+  ],
+  "author": "JY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyydev/npm-jyglobal/issues"
+  },
+  "homepage": "https://github.com/jyydev/npm-jyglobal#readme"
+}
