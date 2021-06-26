@@ -1,5 +1,11 @@
 # jyglobal
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jyydev/npm-jyglobal?logo=npm)
+![GitHub repo size](https://img.shields.io/github/repo-size/jyydev/npm-jyglobal?label=size&logo=github)
+![GitHub contributors](https://img.shields.io/github/contributors/jyydev/npm-jyglobal?color=orange&logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/jyydev/npm-jyglobal?logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jyydev/npm-jyglobal?logo=github)
+
 jyglobal is a personal npm module for speeding up development, testing and debugging stages.
 
 ## Installation
